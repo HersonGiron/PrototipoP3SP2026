@@ -1,0 +1,23 @@
+commit 4b89920ab84a323584aac13a096a3362687154e1
+Author: [Herson <[Herson>
+Date:   Fri Apr 17 13:00:08 2026 -0600
+
+    Se agrego el apartado cine al login
+
+commit dc7d359bb5582d5e6a2195e6e1cfc0bf83385d71
+Author: [Herson <[Herson>
+Date:   Fri Apr 17 12:51:01 2026 -0600
+
+    Se agrego la base de datos con la tabla peliculas y el menu examen
+
+commit c01547a9eedff669ce433f136eaec7292273b4f0
+Author: [Herson <[Herson>
+Date:   Fri Apr 17 12:32:47 2026 -0600
+
+    clase cine ingresada
+
+commit 907ba4188417cab65daa341302395355e90b9677
+Author: Herson Girón <gironnnherson@gmail.com>
+Date:   Fri Apr 17 12:21:28 2026 -0600
+
+    Initial commit
